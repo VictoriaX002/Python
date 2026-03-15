@@ -1,4 +1,4 @@
-import Lab_Week_18_Victoria_Bieganska_Version_2_Functions as lf
+import Menu_Functions as lf
 user_choice = 0
 while user_choice != 9:
     lf.menu()
